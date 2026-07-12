@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
 </p>
 
-Notebook ke-8 dari seri pembelajaran Deep Learning ini melanjutkan studi kasus *time series forecasting* dari model **univariate** ke **multivariate** — dengan menambahkan fitur musiman dari tanggal, membahas isu *data leakage* saat scaling, lalu membangun model **GRU** untuk memprediksi suhu minimum harian beberapa langkah ke depan.
+Pembelajaran Deep Learning ini melanjutkan studi kasus *time series forecasting* dari model **univariate** ke **multivariate** — dengan menambahkan fitur musiman dari tanggal, membahas isu *data leakage* saat scaling, lalu membangun model **GRU** untuk memprediksi suhu minimum harian beberapa langkah ke depan.
 
 ---
 
